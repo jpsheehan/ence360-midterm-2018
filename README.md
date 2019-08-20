@@ -2,7 +2,7 @@
 
 ## Question 1 - Threads (3 Marks)
 
-See `one.c` for the solution.
+See [`one.c`](https://github.com/jpsheehan/ence360-midterm-2018/blob/master/one.c) for the solution.
 
 ## Question 2 - Semaphores (1 Mark)
 
@@ -15,7 +15,7 @@ In the context of Question 1, if global_data was to become an array that could h
 
 ## Question 3: Pipes (5 Marks)
 
-See `two.c` for the solution.
+See [`two.c`](https://github.com/jpsheehan/ence360-midterm-2018/blob/master/two.c) for the solution.
 
 ## Question 4 - Pipes (1 Mark)
 
@@ -28,7 +28,7 @@ If we are using a pipe to communicate between a parent and a child process, with
 
 ## Question 5: Sockets - Server (4 Marks)
 
-See `threeServer.c` for the solution.
+See [`threeServer.c`](https://github.com/jpsheehan/ence360-midterm-2018/blob/master/threeServer.c) for the solution.
 
 ## Question 6 - Sockets - Server (1 Mark)
 
@@ -41,7 +41,7 @@ What function call lets the server know that a client is connecting? Is it liste
 
 ## Question 7: Sockets - Client (4 Marks)
 
-See `fourClient.c` for the solution.
+See [`fourClient.c`](https://github.com/jpsheehan/ence360-midterm-2018/blob/master/fourClient.c) for the solution.
 
 ## Question 8 - Sockets - Client (1 Mark)
 
